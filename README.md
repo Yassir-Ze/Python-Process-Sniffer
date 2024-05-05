@@ -2,7 +2,6 @@
 
 
 Version 1.0.7
-Sure, here's a Github description for the script along with instructions on how to use it:
 
 ---
 
